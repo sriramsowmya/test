@@ -2,10 +2,7 @@ package com.neoteric.learning;
 
 import java.util.Date;
 
-/**
- * Hello world!
- *
- */
+
 public class App 
 {
     public static void main( String[] args )
@@ -20,6 +17,7 @@ public class App
         Date dob =new Date();
         System.out.println("neoteric");
         System.out.println("female");
+
 
     }
 }
